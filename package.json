@@ -1,0 +1,22 @@
+{
+  "name": "snakey_boy",
+  "version": "0.0.1",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybenjamin/discord_bot.git"
+  },
+  "author": "mybenjamin",
+  "license": "SEE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/mybenjamin/discord_bot/issues"
+  },
+  "homepage": "https://github.com/mybenjamin/discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}

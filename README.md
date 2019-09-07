@@ -1,5 +1,10 @@
 # Credit eslachance: https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3
 
+## Start: 
+npm i
+npm index.js on host
+
+
 ```javascript
 // Load up the discord.js library
 const Discord = require("discord.js");
